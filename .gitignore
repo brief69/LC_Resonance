@@ -1,0 +1,12 @@
+
+
+# System file
+.DS_Store
+
+# Python Build Deliverables
+__pycache__/
+*.pyc
+*.pyo
+
+# Python Virtual Environment
+venv/
